@@ -1,5 +1,5 @@
 #ifndef YanPrint
-
+#define YanPrint
 #include <stdio.h>
 #include <stdlib.h>
 void printInt(int i);
